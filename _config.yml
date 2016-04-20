@@ -1,0 +1,28 @@
+name: solo-distributors
+favicon: null
+layout_spectrum: 0.7245797181967646
+typography_spectrum: 0.37275532609783113
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7321813916787505
+  lightness: 0.2670962631236762
+  saturation: 0.8313292879611254
+  rhythmicContrast: 0.6664633173495531
+purpose: []
